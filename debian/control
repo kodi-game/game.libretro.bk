@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-bk
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-bk (>= 1.0.0) | bk (>= 1.0.0)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-bk
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: Elektronika - BK-0010/BK-0011(M) core for kodi's retroplayer
+ Elektronika - BK-0010/BK-0011(M) core for kodi's retroplayer
