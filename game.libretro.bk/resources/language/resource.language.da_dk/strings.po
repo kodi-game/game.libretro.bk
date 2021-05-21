@@ -22,21 +22,37 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Use color display"
-msgstr "Anvend farvedisplay"
+msgid "Model (restart)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Double CPU speed"
-msgstr "Dobbel CPU-hastighed"
+msgid "Peripheral (UP port, restart)"
+msgstr ""
 
 msgctxt "#30003"
 msgid "Keyboard layout"
 msgstr "Tastaturlayout"
 
 msgctxt "#30004"
-msgid "Model (restart)"
-msgstr "Model (genstart)"
+msgid "Double CPU speed"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Peripheral (UP port, restart)"
-msgstr "Ekstern (UP-port, genstart)"
+msgid "Use color display"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Use color display"
+#~ msgstr "Anvend farvedisplay"
+
+#~ msgctxt "#30002"
+#~ msgid "Double CPU speed"
+#~ msgstr "Dobbel CPU-hastighed"
+
+#~ msgctxt "#30004"
+#~ msgid "Model (restart)"
+#~ msgstr "Model (genstart)"
+
+#~ msgctxt "#30005"
+#~ msgid "Peripheral (UP port, restart)"
+#~ msgstr "Ekstern (UP-port, genstart)"

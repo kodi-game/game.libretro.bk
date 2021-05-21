@@ -22,11 +22,11 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Use color display"
+msgid "Model (restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Double CPU speed"
+msgid "Peripheral (UP port, restart)"
 msgstr ""
 
 msgctxt "#30003"
@@ -34,9 +34,9 @@ msgid "Keyboard layout"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Model (restart)"
+msgid "Double CPU speed"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Peripheral (UP port, restart)"
+msgid "Use color display"
 msgstr ""
