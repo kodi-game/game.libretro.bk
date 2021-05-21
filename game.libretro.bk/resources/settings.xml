@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="bk_color" values="enabled|disabled" default="enabled"/>
-		<setting label="30002" type="select" id="bk_doublespeed" values="disabled|enabled" default="disabled"/>
+		<setting label="30001" type="select" id="bk_model" values="BK-0010|BK-0010.01|BK-0010.01 + FDD|BK-0011M + FDD|Terak 8510/a|Slow BK-0011M" default="BK-0010"/>
+		<setting label="30002" type="select" id="bk_peripheral" values="none|covox|ay_3_8910|mouse_high|mouse_low|joystick" default="none"/>
 		<setting label="30003" type="select" id="bk_layout" values="qwerty|jcuken" default="qwerty"/>
-		<setting label="30004" type="select" id="bk_model" values="BK-0010|BK-0010.01|BK-0010.01 + FDD|BK-0011M + FDD|Terak 8510/a|Slow BK-0011M" default="BK-0010"/>
-		<setting label="30005" type="select" id="bk_peripheral" values="none|covox|ay_3_8910|mouse_high|mouse_low|joystick" default="none"/>
+		<setting label="30004" type="select" id="bk_doublespeed" values="disabled|enabled" default="disabled"/>
+		<setting label="30005" type="select" id="bk_color" values="enabled|disabled" default="enabled"/>
 	</category>
 </settings>
