@@ -16,6 +16,16 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgctxt "Addon Summary"
+msgid "Elektronika - BK-0010/BK-0011(M) v1.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(М).
+
+Supported files: .bin"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
