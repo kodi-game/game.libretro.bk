@@ -22,9 +22,7 @@ msgid "Elektronika - BK-0010/BK-0011(M) v1.0"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(М).
-
-Supported files: .bin"
+msgid "BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(M).[CR][CR]Supported files: .bin"
 msgstr ""
 
 msgctxt "#30000"
