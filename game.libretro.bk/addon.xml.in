@@ -14,14 +14,10 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .bin</description>
 		<license>BSD</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.bk</source>
 		<summary lang="en_GB">Elektronika - BK-0010/BK-0011(M) v1.0</summary>
-		<description lang="en_GB">BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(М).
-
-Supported files: .bin</description>
+		<description lang="en_GB">BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(М).[CR][CR]Supported files: .bin</description>
 	</extension>
 </addon>
