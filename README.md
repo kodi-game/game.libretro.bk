@@ -13,7 +13,7 @@ BSD
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.bk/resources/icon.png)
 
 ### Fanart
 
