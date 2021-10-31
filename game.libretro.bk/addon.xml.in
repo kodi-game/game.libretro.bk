@@ -18,6 +18,9 @@
 		<license>BSD</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.bk</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Elektronika - BK-0010/BK-0011(M) v1.0</summary>
 		<description lang="da_DK">BK er en emulator til den sovjetiske Electronica BK-serie: БК-0010, БК-0010.01 og БК-0011(M).</description>
 		<description lang="en_GB">BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(M).</description>
