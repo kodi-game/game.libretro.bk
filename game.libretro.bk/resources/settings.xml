@@ -6,5 +6,7 @@
 		<setting label="30003" type="select" id="bk_layout" values="qwerty|jcuken" default="qwerty"/>
 		<setting label="30004" type="select" id="bk_doublespeed" values="disabled|enabled" default="disabled"/>
 		<setting label="30005" type="select" id="bk_color" values="enabled|disabled" default="enabled"/>
+		<setting label="30006" type="select" id="bk_keyboard_type" values="poll|callback" default="poll"/>
+		<setting label="30007" type="select" id="bk_aspect_ratio" values="1:1|4:3" default="1:1"/>
 	</category>
 </settings>
