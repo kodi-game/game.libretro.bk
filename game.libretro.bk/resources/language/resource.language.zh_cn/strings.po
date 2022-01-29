@@ -48,3 +48,11 @@ msgstr "CPU 倍速"
 msgctxt "#30005"
 msgid "Use color display"
 msgstr "启用颜色显示"
+
+msgctxt "#30006"
+msgid "Keyboard type (restart)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Aspect ratio"
+msgstr ""

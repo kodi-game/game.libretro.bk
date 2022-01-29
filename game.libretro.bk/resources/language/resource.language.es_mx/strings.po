@@ -48,3 +48,11 @@ msgstr ""
 msgctxt "#30005"
 msgid "Use color display"
 msgstr ""
+
+msgctxt "#30006"
+msgid "Keyboard type (restart)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Aspect ratio"
+msgstr ""
