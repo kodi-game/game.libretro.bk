@@ -1,1 +1,1 @@
-bk https://github.com/libretro/bk-emulator/archive/30c605acaae958f2c6caf15de1fc5bfac49808b6.tar.gz
+bk https://github.com/libretro/bk-emulator/archive/cf70ce503ddb65051a58f3c4f61d1e258fc4c84b.tar.gz
