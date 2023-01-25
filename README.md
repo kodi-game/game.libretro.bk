@@ -13,7 +13,7 @@ BSD
 
 ### Icon
 
-![Icon](game.libretro.bk/resources/icon.png)
+![Elektronika - BK-0010/BK-0011(M) icon](game.libretro.bk/resources/icon.png)
 
 ### Fanart
 
