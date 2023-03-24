@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
 msgctxt "Addon Summary"
-msgid "Elektronika - BK-0010/BK-0011(M) v1.0"
+msgid "Elektronika - BK-0010/BK-0011(M)"
 msgstr ""
 
 msgctxt "Addon Description"
