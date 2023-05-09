@@ -24,6 +24,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Elektronika - BK-0010/BK-0011(M)</summary>
 		<summary lang="en_GB">Elektronika - BK-0010/BK-0011(M)</summary>
 		<summary lang="es_ES">Elektronika - BK-0010/BK-0011(M)</summary>
 		<description lang="da_DK">BK er en emulator til den sovjetiske Electronica BK-serie: БК-0010, БК-0010.01 og БК-0011(M).</description>
