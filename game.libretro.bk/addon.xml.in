@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.bk"
 		name="Elektronika - BK-0010/BK-0011(M)"
-		version="1.0.0.23"
+		version="1.0.0.24"
 		provider-name="Eric A. Edwards, Leonid A. Broukhis, emestee, arcade-mini, phcoder">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
