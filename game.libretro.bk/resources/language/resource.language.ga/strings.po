@@ -7,23 +7,23 @@ msgstr ""
 "Project-Id-Version: game.libretro.bk\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:15i\n"
-"PO-Revision-Date: 2020-09-01 13:15i\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-16 09:28+0000\n"
+"Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
+"Language-Team: Irish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-bk/ga/>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
-"n>6 && n<11) ? 3 : 4;\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :(n>6 && n<11) ? 3 : 4;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 msgctxt "Addon Summary"
 msgid "Elektronika - BK-0010/BK-0011(M)"
-msgstr ""
+msgstr "Elektronika - BK-0010/BK-0011(M)"
 
 msgctxt "Addon Description"
 msgid "BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(M)."
-msgstr ""
+msgstr "Is aithriseoir é BK don tsraith Soviet Electronica BK: БК-0010, БК-0010.01, agus БК-0011(M)."
 
 # Empty string with ID 30000
 msgctxt "#30001"
@@ -32,7 +32,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Model (restart)"
-msgstr ""
+msgstr "Samhail (atosú)"
 
 msgctxt "#30002"
 msgid "Peripheral (UP port, restart)"
@@ -40,7 +40,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Peripheral (UP port, restart)"
-msgstr ""
+msgstr "Forimeallach (port UP, atosú)"
 
 msgctxt "#30003"
 msgid "Keyboard layout"
@@ -48,7 +48,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Keyboard layout"
-msgstr ""
+msgstr "Leagan amach an mhéarchláir"
 
 msgctxt "#30004"
 msgid "Double CPU speed"
@@ -56,7 +56,7 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Double CPU speed"
-msgstr ""
+msgstr "Luas dúbailte LAP"
 
 msgctxt "#30005"
 msgid "Use color display"
@@ -64,7 +64,7 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Use color display"
-msgstr ""
+msgstr "Úsáid taispeáint datha"
 
 msgctxt "#30006"
 msgid "Keyboard type (restart)"
@@ -72,7 +72,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Keyboard type (restart)"
-msgstr ""
+msgstr "Cineál méarchláir (atosú)"
 
 msgctxt "#30007"
 msgid "Aspect ratio"
@@ -80,7 +80,7 @@ msgstr ""
 
 msgctxt "#30007"
 msgid "Aspect ratio"
-msgstr ""
+msgstr "Cóimheas gné"
 
 msgctxt "#30008"
 msgid "Input -> Repeat"
@@ -88,7 +88,7 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Input -> Repeat"
-msgstr ""
+msgstr "Ionchur -> Athdhéanamh"
 
 msgctxt "#30009"
 msgid "Input -> KT"
@@ -96,7 +96,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Input -> KT"
-msgstr ""
+msgstr "Ionchur -> KT"
 
 msgctxt "#30010"
 msgid "Input -> |--->"
@@ -104,7 +104,7 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Input -> |--->"
-msgstr ""
+msgstr "Ionchur -> |--->"
 
 msgctxt "#30011"
 msgid "Input -> |<---"
@@ -112,7 +112,7 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Input -> |<---"
-msgstr ""
+msgstr "Ionchur -> |<---"
 
 msgctxt "#30012"
 msgid "Input -> -|-->"
@@ -120,7 +120,7 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "Input -> -|-->"
-msgstr ""
+msgstr "Ionchur -> -|-->"
 
 msgctxt "#30013"
 msgid "Input -> Ind Su"
@@ -128,7 +128,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Input -> Ind Su"
-msgstr ""
+msgstr "Ionchur -> Ind Su"
 
 msgctxt "#30014"
 msgid "Input -> Block"
@@ -136,7 +136,7 @@ msgstr ""
 
 msgctxt "#30014"
 msgid "Input -> Block"
-msgstr ""
+msgstr "Ionchur -> Bloc"
 
 msgctxt "#30015"
 msgid "Input -> Step"
@@ -144,7 +144,7 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Input -> Step"
-msgstr ""
+msgstr "Ionchur -> Céim"
 
 msgctxt "#30016"
 msgid "Input -> Reset"
@@ -152,7 +152,7 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Input -> Reset"
-msgstr ""
+msgstr "Ionchur -> Athshocraigh"
 
 msgctxt "#30017"
 msgid "Input -> Tab"
@@ -160,7 +160,7 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Input -> Tab"
-msgstr ""
+msgstr "Ionchur -> Tab"
 
 msgctxt "#30018"
 msgid "Input -> Vs"
@@ -168,7 +168,7 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Input -> Vs"
-msgstr ""
+msgstr "Ionchur -> Vs"
 
 msgctxt "#30019"
 msgid "Input -> Rus"
@@ -176,7 +176,7 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Input -> Rus"
-msgstr ""
+msgstr "Ionchur -> Rúisis"
 
 msgctxt "#30020"
 msgid "Input -> Lat"
@@ -184,7 +184,7 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Input -> Lat"
-msgstr ""
+msgstr "Ionchur -> Domhanleithead"
 
 msgctxt "#30021"
 msgid "Key -> Hotkey -> Color Mode"
@@ -192,7 +192,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Key -> Hotkey -> Color Mode"
-msgstr ""
+msgstr "Eochair -> Eochair The -> Mód Dathanna"
 
 msgctxt "#30022"
 msgid "Key -> Hotkey -> Soft Reset"
@@ -200,7 +200,7 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "Key -> Hotkey -> Soft Reset"
-msgstr ""
+msgstr "Eochair -> Eochair The -> Athshocrú Bog"
 
 msgctxt "#30023"
 msgid "Key -> Hotkey -> Hard Reset"
@@ -208,4 +208,4 @@ msgstr ""
 
 msgctxt "#30023"
 msgid "Key -> Hotkey -> Hard Reset"
-msgstr ""
+msgstr "Eochair -> Eochair The -> Athshocrú Crua"
