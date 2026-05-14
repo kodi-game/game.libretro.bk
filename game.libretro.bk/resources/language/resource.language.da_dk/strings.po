@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01, and БК-0011(M)."
 msgstr "BK er en emulator til den sovjetiske Electronica BK-serie: БК-0010, БК-0010.01 og БК-0011(M)."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Model (restart)"
 msgstr "Model (genstart)"
@@ -56,6 +52,74 @@ msgstr "Tastaturtype (genstart)"
 msgctxt "#30007"
 msgid "Aspect ratio"
 msgstr "Billedformat"
+
+msgctxt "#30008"
+msgid "Input -> Repeat"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Input -> KT"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Input -> |--->"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Input -> |<---"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Input -> -|-->"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Input -> Ind Su"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Input -> Block"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Input -> Step"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Input -> Reset"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Input -> Tab"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Input -> Vs"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Input -> Rus"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Input -> Lat"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Key -> Hotkey -> Color Mode"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Key -> Hotkey -> Soft Reset"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Key -> Hotkey -> Hard Reset"
+msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30001"
 #~ msgid "Use color display"
