@@ -30,20 +30,8 @@ msgctxt "#30001"
 msgid "Model (restart)"
 msgstr ""
 
-msgctxt "#30001"
-msgid "Model (restart)"
-msgstr ""
-
 msgctxt "#30002"
 msgid "Peripheral (UP port, restart)"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Peripheral (UP port, restart)"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Keyboard layout"
 msgstr ""
 
 msgctxt "#30003"
@@ -54,20 +42,8 @@ msgctxt "#30004"
 msgid "Double CPU speed"
 msgstr ""
 
-msgctxt "#30004"
-msgid "Double CPU speed"
-msgstr ""
-
 msgctxt "#30005"
 msgid "Use color display"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Use color display"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Keyboard type (restart)"
 msgstr ""
 
 msgctxt "#30006"
@@ -78,20 +54,8 @@ msgctxt "#30007"
 msgid "Aspect ratio"
 msgstr ""
 
-msgctxt "#30007"
-msgid "Aspect ratio"
-msgstr ""
-
 msgctxt "#30008"
 msgid "Input -> Repeat"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Input -> Repeat"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Input -> KT"
 msgstr ""
 
 msgctxt "#30009"
@@ -102,20 +66,8 @@ msgctxt "#30010"
 msgid "Input -> |--->"
 msgstr ""
 
-msgctxt "#30010"
-msgid "Input -> |--->"
-msgstr ""
-
 msgctxt "#30011"
 msgid "Input -> |<---"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Input -> |<---"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Input -> -|-->"
 msgstr ""
 
 msgctxt "#30012"
@@ -126,20 +78,8 @@ msgctxt "#30013"
 msgid "Input -> Ind Su"
 msgstr ""
 
-msgctxt "#30013"
-msgid "Input -> Ind Su"
-msgstr ""
-
 msgctxt "#30014"
 msgid "Input -> Block"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Input -> Block"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Input -> Step"
 msgstr ""
 
 msgctxt "#30015"
@@ -150,20 +90,8 @@ msgctxt "#30016"
 msgid "Input -> Reset"
 msgstr ""
 
-msgctxt "#30016"
-msgid "Input -> Reset"
-msgstr ""
-
 msgctxt "#30017"
 msgid "Input -> Tab"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Input -> Tab"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Input -> Vs"
 msgstr ""
 
 msgctxt "#30018"
@@ -174,14 +102,6 @@ msgctxt "#30019"
 msgid "Input -> Rus"
 msgstr ""
 
-msgctxt "#30019"
-msgid "Input -> Rus"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Input -> Lat"
-msgstr ""
-
 msgctxt "#30020"
 msgid "Input -> Lat"
 msgstr ""
@@ -190,20 +110,8 @@ msgctxt "#30021"
 msgid "Key -> Hotkey -> Color Mode"
 msgstr ""
 
-msgctxt "#30021"
-msgid "Key -> Hotkey -> Color Mode"
-msgstr ""
-
 msgctxt "#30022"
 msgid "Key -> Hotkey -> Soft Reset"
-msgstr ""
-
-msgctxt "#30022"
-msgid "Key -> Hotkey -> Soft Reset"
-msgstr ""
-
-msgctxt "#30023"
-msgid "Key -> Hotkey -> Hard Reset"
 msgstr ""
 
 msgctxt "#30023"
