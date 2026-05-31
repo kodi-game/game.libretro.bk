@@ -1,0 +1,25 @@
+From ad1eaeda1553816251591618d7451a290196cc1a Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sat, 30 May 2026 17:05:12 -0700
+Subject: [PATCH] Fix duplicated options in settings dialog
+
+---
+ libretro.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/libretro.c b/libretro.c
+index 07531da..d664bd4 100644
+--- a/libretro.c
++++ b/libretro.c
+@@ -219,7 +219,7 @@ void set_options_v1(retro_environment_t cb) {
+ 	snprintf(buf[13], sizeof(buf[13]), "Key -> Hotkey -> Color Mode; %s", inp_opt); variables[20].value = buf[13];
+ 	snprintf(buf[14], sizeof(buf[14]), "Key -> Hotkey -> Soft Reset; %s", inp_opt);	variables[21].value = buf[14];
+ 	snprintf(buf[15], sizeof(buf[15]), "Key -> Hotkey -> Hard Reset; %s", inp_opt);	variables[22].value = buf[15];
+-	cb(RETRO_ENVIRONMENT_SET_VARIABLES, variables);
++	//cb(RETRO_ENVIRONMENT_SET_VARIABLES, variables);
+ }
+ void set_options_v2(retro_environment_t cb) {
+ 	struct retro_core_option_v2_category option_cats[] = {
+-- 
+2.50.1 (Apple Git-155)
+
