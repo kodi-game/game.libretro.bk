@@ -6,7 +6,7 @@ BK is an emulator for the Soviet Electronica BK series: БК-0010, БК-0010.01,
 
 ### License
 
-BSD
+HPND
 
 ### Icon
 

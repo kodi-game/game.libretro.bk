@@ -19,7 +19,7 @@
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<license>BSD</license>
+		<license>HPND</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.bk</source>
 		<assets>
