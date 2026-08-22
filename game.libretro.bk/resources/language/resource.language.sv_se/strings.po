@@ -33,10 +33,6 @@ msgctxt "#30002"
 msgid "Peripheral (UP port, restart)"
 msgstr "Tillbehör (UP-port, omstart)"
 
-msgctxt "#30003"
-msgid "Keyboard layout"
-msgstr "Tangentbordslayout"
-
 msgctxt "#30004"
 msgid "Double CPU speed"
 msgstr "Dubbel CPU-hastighet"
@@ -53,58 +49,6 @@ msgctxt "#30007"
 msgid "Aspect ratio"
 msgstr "Bildförhållande"
 
-msgctxt "#30008"
-msgid "Input -> Repeat"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Input -> KT"
-msgstr ""
-
-msgctxt "#30010"
-msgid "Input -> |--->"
-msgstr ""
-
-msgctxt "#30011"
-msgid "Input -> |<---"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Input -> -|-->"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Input -> Ind Su"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Input -> Block"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Input -> Step"
-msgstr ""
-
-msgctxt "#30016"
-msgid "Input -> Reset"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Input -> Tab"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Input -> Vs"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Input -> Rus"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Input -> Lat"
-msgstr ""
-
 msgctxt "#30021"
 msgid "Key -> Hotkey -> Color Mode"
 msgstr ""
@@ -116,6 +60,134 @@ msgstr ""
 msgctxt "#30023"
 msgid "Key -> Hotkey -> Hard Reset"
 msgstr ""
+
+msgctxt "#30024"
+msgid "System"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Configure system parameters."
+msgstr ""
+
+msgctxt "#30026"
+msgid "Model of the emulated computer."
+msgstr ""
+
+msgctxt "#30027"
+msgid "BK-0010"
+msgstr ""
+
+msgctxt "#30028"
+msgid "BK-0010.01"
+msgstr ""
+
+msgctxt "#30029"
+msgid "BK-0010.01 + FDD"
+msgstr ""
+
+msgctxt "#30030"
+msgid "BK-0011M + FDD"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Terak 8510/a"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Slow BK-0011M"
+msgstr ""
+
+msgctxt "#30033"
+msgid "None"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Covox"
+msgstr ""
+
+msgctxt "#30035"
+msgid "AY 3 8910"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Mouse (high)"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Mouse (low)"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Joystick"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Remap keyboard system keys."
+msgstr ""
+
+msgctxt "#30041"
+msgid "Keyboard Layout"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Key -> Repeat"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Key -> KT"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Key -> |--->"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Key -> |<---"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Key -> -|-->"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Key -> Ind Su"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Key -> Block"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Key -> Step"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Key -> Reset"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Key -> Tab"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Key -> Vs"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Key -> Rus"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Key -> Lat"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Keyboard layout"
+#~ msgstr "Tangentbordslayout"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
