@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.bk"
 		name="Elektronika - BK-0010/BK-0011(M)"
-		version="1.0.0.37"
+		version="1.0.0.38"
 		provider-name="Eric A. Edwards, Leonid A. Broukhis, emestee, arcade-mini, phcoder">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -11,12 +11,12 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Elektronika - BK-0010/BK-0011</platforms>
 		<extensions>bin|img|dsk|bkd</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>bk_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>HPND</license>
